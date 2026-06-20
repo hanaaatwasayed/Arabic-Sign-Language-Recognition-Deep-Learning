@@ -1,5 +1,4 @@
-# Arabic-Sign-Language-Recognition-Deep-Learning
-A deep learning framework for Arabic Sign Language recognition using CNN, MobileNetV2, and CNN-LSTM, with data balancing, ensemble learning, and statistical performance analysis.
+
 # Arabic Sign Language Recognition using Deep Learning
 
 This project presents a deep learning framework for **Arabic Sign Language (ARSL) recognition**, evaluating multiple models under different data balancing strategies and enhancing performance through probability-based ensemble learning and statistical analysis.
