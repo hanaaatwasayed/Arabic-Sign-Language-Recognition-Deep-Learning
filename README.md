@@ -10,8 +10,6 @@ This project presents a deep learning framework for **Arabic Sign Language (ARSL
 The study uses the **Arabic Sign Language Dataset (ARSL2018)** available on Mendeley Data:
 
 🔗 https://data.mendeley.com/datasets/y7pckrw6z2/1
-The processed dataset files are large and are hosted externally.
-
 
 It contains:
 - 54,049 labeled images  
