@@ -25,13 +25,11 @@ It contains:
 
 ## 📁 Project Structure
 
-```text
+```plaintext
 Arabic-Sign-Language/
 │
 ├── data/
-│   │
 │   ├── processed/
-│   │   │
 │   │   ├── original/
 │   │   │   ├── images_original.npy
 │   │   │   └── encoded_labels_original.npy
@@ -44,7 +42,7 @@ Arabic-Sign-Language/
 │   │   │   ├── images_over.npy
 │   │   │   └── encoded_labels_over.npy
 │   │   │
-│   │   └── label_encoder_classes.npy   ← (GLOBAL / SHARED)
+│   │   └── label_encoder_classes.npy  ← (GLOBAL / SHARED)
 │   │
 │   ├── ARSL2018/
 │   │   └── dataset_link.txt
@@ -52,7 +50,6 @@ Arabic-Sign-Language/
 │   └── (optional raw / future datasets)
 │
 ├── notebooks/
-│   │
 │   ├── CNN/
 │   ├── MobileNetV2/
 │   └── CNN_LSTM/
