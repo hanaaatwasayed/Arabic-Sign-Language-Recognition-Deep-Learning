@@ -12,8 +12,6 @@ The study uses the **Arabic Sign Language Dataset (ARSL2018)** available on Mend
 🔗 https://data.mendeley.com/datasets/y7pckrw6z2/1
 The processed dataset files are large and are hosted externally.
 
-📁 Google Drive Link:
-https://drive.google.com/drive/folders/1Dnv8bJkjSi2yMqRcUs5skfIdxRpohS5z?usp=drive_link
 
 It contains:
 - 54,049 labeled images  
