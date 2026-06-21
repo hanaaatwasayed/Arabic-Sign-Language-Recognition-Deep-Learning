@@ -24,6 +24,8 @@ It contains:
 ---
 
 ## 📁 Project Structure
+
+```text
 Arabic-Sign-Language/
 │
 ├── data/
@@ -71,6 +73,7 @@ Arabic-Sign-Language/
 ├── requirements.txt
 ├── README.md
 └── CITATION.cff
+```
 
 ---
 
